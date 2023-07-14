@@ -8,9 +8,9 @@ Full-Stack Web Developer  :man_technologist:
 
 - :earth_americas: From Maracay - Venezuela
 - :earth_americas: Living in Bilbao - Spain
-- :gem: Tech enthusiast.
--  geek at heart
-- 
+- :gem: Tech Enthusiast.
+-  :revolving_hearts: Geek at heart
+-  :smile_cat: :dog: Animal lover
 
 ### I love work with :
 <a href="https://github.com/Jegdjegd">
