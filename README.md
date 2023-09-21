@@ -7,7 +7,7 @@ Full-Stack Web Developer  :man_technologist:
 🌧️: Cold | :computer: Programming
 
 - :earth_americas: From Maracay - Venezuela
-- :earth_americas: Living in Bilbao - Spain
+- :earth_americas: Living in Vitoria - Spain
 - :gem: Tech Enthusiast.
 -  :revolving_hearts: Geek at heart
 -  :smile_cat: :dog: Animal lover
