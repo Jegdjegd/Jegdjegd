@@ -1,8 +1,9 @@
-# Hi, I'm Jhoann G. :octocat:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=06DA74&center=true&vCenter=true&multiline=true&width=700&height=250&lines=%C2%A1+Welcome+to+my+Github+Profile+!;I'm+Jhoann+-+Full+Stack+web+developer;But+i+love+the+frontend;And+Coffe+of+course!)](https://git.io/typing-svg)
 
-Full-Stack Web Developer  :man_technologist:
 
 ## About me 
+
+![](https://komarev.com/ghpvc/?username=Jegdjegd&label=PROFILE+VIEWS)
 
 🌧️: Cold | :computer: Programming
 
@@ -17,11 +18,22 @@ Full-Stack Web Developer  :man_technologist:
 </a>
 
 <a href="https://github.com/Jegdjegd">
+  <img src="https://img.shields.io/badge/Linux-B8B6A8?style=for-the-badge&logo=linux&logoColor=gray">
+</a>
+
+<a href="https://github.com/Jegdjegd">
+  <img src="https://img.shields.io/badge/Angular-fff?style=for-the-badge&logo=angular&logoColor=red">
+</a>
+<a href="https://github.com/Jegdjegd">
   <img src="https://img.shields.io/badge/React-0050e6?style=for-the-badge&logo=react&logoColor=white">
 </a>
 
 
 ## Tech & Tools Preference
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jegdjegd&layout=donut)](https://github.com/Jegdjegd/github-readme-stats)
+
 
 #### Languages
 <a href="https://github.com/Jegdjegd">
