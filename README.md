@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=06DA74&center=true&vCenter=true&multiline=true&width=700&height=250&lines=%C2%A1+Welcome+to+my+Github+Profile+!;I'm+Jhoann+-+Full+Stack+web+developer;But+i+love+the+Frontend;And+Coffe+of+course!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=06DA74&center=true&vCenter=true&multiline=true&width=700&height=180&lines=%C2%A1+Welcome+to+my+Github+Profile+!;I'm+Jhoann+-+Full+Stack+web+developer;But+i+love+the+Frontend;And+Coffe+of+course!)](https://git.io/typing-svg)
 
 
 ## About me 
