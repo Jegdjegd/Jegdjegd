@@ -1,7 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=27A3F5&center=true&vCenter=true&width=700&height=180&lines=%C2%A1+Welcome+to+my+Github+profile+!;I'm+Jhoann+-+Web+developer;And+i+love+the+frontend;And+coffe+of+course!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=27A3F5&center=true&vCenter=true&width=600&height=200&lines=%C2%A1+Welcome+to+my+Github+profile+!;I'm+Jhoann%2C+Web+developer;And+i+love+the+frontend;And+coffe+of+course+!)](https://git.io/typing-svg)
 
 ## About me 
 
