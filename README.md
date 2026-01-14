@@ -22,7 +22,7 @@
 
 ## Tech & Tools Preference
 
-<a href="http://www.github.com/Jegdjegd"><img src="https://github-readme-stats.vercel.app/api?username=Jegdjegd&show_icons=true&hide=stars,issues,&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="Jegdjegd's GitHub stats" /></a>  <a href="https://github.com/Jegdjegd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jegdjegd&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 ### I love work with :
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
